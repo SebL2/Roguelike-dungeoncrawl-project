@@ -8,9 +8,7 @@ Includes simple combat where enemies gravitate towards you, saving functionality
 
 This project was completed and examined on 2022, and has been ported from my school github to my main on 2023. 
 
-## Controls
-
-### Movement
+## Movement
 Uses standard WASD movement
 
 W - up
@@ -18,5 +16,5 @@ A - left
 S - down
 D - right
 
-### Attack
+## Attack
 Uses arrow keys as attack buttons. 
