@@ -10,7 +10,7 @@ This project was completed and examined on 2022, and has been ported from my sch
 
 ## Controls
 
-## Movement
+### Movement
 Uses standard WASD movement
 
 W - up
@@ -18,5 +18,5 @@ A - left
 S - down
 D - right
 
-## Attack
+### Attack
 Uses arrow keys as attack buttons. 
